@@ -10,6 +10,7 @@ function Potato({item, arrTemp}){
 }
 */
 
+
 const animalArr = [
   {name:"cat", age:4, wight:12, id:1},
   {name:"dog", age:3, wight:8, id:2},
